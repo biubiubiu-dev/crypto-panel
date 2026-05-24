@@ -1,0 +1,14 @@
+{
+  "updated_at": "2026-05-24T15:55:39.828558+00:00",
+  "indicators": {
+    "fear_greed": {
+      "name_cn": "恐慌贪婪指数",
+      "current_value": 25,
+      "signal": "抄底",
+      "description": "极度恐惧",
+      "color": "green",
+      "score_normalized": 25,
+      "classification_en": "Extreme Fear"
+    }
+  }
+}
